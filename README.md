@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
