@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1480-running-sum-of-1d-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
