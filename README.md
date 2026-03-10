@@ -16,12 +16,14 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,11 +32,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +52,7 @@
 | ------- |
 | [0015-3sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
