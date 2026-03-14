@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0015-3sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tripti-singh-cs/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
