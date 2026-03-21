@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tripti-singh-cs/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -42,6 +43,7 @@
 | [0018-4sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -67,6 +69,7 @@
 | [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
