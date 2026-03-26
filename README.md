@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -81,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tripti-singh-cs/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
