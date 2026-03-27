@@ -85,6 +85,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tripti-singh-cs/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
