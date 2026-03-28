@@ -46,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/tripti-singh-cs/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tripti-singh-cs/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
