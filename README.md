@@ -29,6 +29,7 @@
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/tripti-singh-cs/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2404-most-frequent-even-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
