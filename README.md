@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tripti-singh-cs/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/tripti-singh-cs/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tripti-singh-cs/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
