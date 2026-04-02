@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
@@ -153,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -172,5 +174,6 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tripti-singh-cs/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
