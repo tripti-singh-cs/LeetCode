@@ -29,6 +29,7 @@
 | [0137-single-number-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tripti-singh-cs/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -159,6 +160,7 @@
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
