@@ -78,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tripti-singh-cs/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tripti-singh-cs/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
@@ -165,6 +167,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
@@ -190,4 +193,8 @@
 | [0047-permutations-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
