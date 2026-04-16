@@ -84,6 +84,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/tripti-singh-cs/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
@@ -115,6 +116,7 @@
 | [0014-longest-common-prefix](https://github.com/tripti-singh-cs/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tripti-singh-cs/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
@@ -210,5 +212,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
