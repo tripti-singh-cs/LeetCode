@@ -120,6 +120,7 @@
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tripti-singh-cs/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/tripti-singh-cs/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/tripti-singh-cs/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/tripti-singh-cs/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/tripti-singh-cs/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tripti-singh-cs/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
