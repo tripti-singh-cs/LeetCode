@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tripti-singh-cs/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/tripti-singh-cs/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0047-permutations-ii) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tripti-singh-cs/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
