@@ -51,6 +51,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -135,6 +136,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/tripti-singh-cs/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
@@ -146,6 +148,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,11 +199,13 @@
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
+| [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
