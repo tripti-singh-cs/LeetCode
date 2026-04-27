@@ -93,6 +93,7 @@
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tripti-singh-cs/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/tripti-singh-cs/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String Matching
 |  |
 | ------- |
