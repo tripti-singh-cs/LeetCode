@@ -31,6 +31,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
@@ -48,6 +49,7 @@
 | [0012-integer-to-roman](https://github.com/tripti-singh-cs/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tripti-singh-cs/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +135,7 @@
 | [0093-restore-ip-addresses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/tripti-singh-cs/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/tripti-singh-cs/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tripti-singh-cs/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +172,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tripti-singh-cs/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,4 +243,8 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
