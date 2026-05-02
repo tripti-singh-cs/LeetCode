@@ -35,6 +35,7 @@
 | [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/tripti-singh-cs/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@
 | [0125-valid-palindrome](https://github.com/tripti-singh-cs/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tripti-singh-cs/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +102,7 @@
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tripti-singh-cs/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Matrix
 |  |
