@@ -150,6 +150,7 @@
 | [0171-excel-sheet-column-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/tripti-singh-cs/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -248,6 +249,7 @@
 | [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/tripti-singh-cs/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/tripti-singh-cs/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -257,4 +259,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/tripti-singh-cs/LeetCode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/tripti-singh-cs/LeetCode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/tripti-singh-cs/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
