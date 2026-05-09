@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tripti-singh-cs/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tripti-singh-cs/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tripti-singh-cs/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tripti-singh-cs/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -95,6 +97,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tripti-singh-cs/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -108,6 +111,7 @@
 | [0171-excel-sheet-column-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +129,7 @@
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tripti-singh-cs/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tripti-singh-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tripti-singh-cs/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -227,6 +232,7 @@
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tripti-singh-cs/LeetCode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
