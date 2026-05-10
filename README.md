@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tripti-singh-cs/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tripti-singh-cs/LeetCode/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@
 | [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tripti-singh-cs/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tripti-singh-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tripti-singh-cs/LeetCode/tree/master/0290-word-pattern) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tripti-singh-cs/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
