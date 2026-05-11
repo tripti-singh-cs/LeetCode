@@ -165,6 +165,7 @@
 | [0344-reverse-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tripti-singh-cs/LeetCode/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/tripti-singh-cs/LeetCode/tree/master/1108-defanging-an-ip-address) |
