@@ -21,6 +21,7 @@
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/tripti-singh-cs/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@
 | [0018-4sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/tripti-singh-cs/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tripti-singh-cs/LeetCode/tree/master/0125-valid-palindrome) |
@@ -127,6 +129,7 @@
 | [0018-4sum](https://github.com/tripti-singh-cs/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tripti-singh-cs/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tripti-singh-cs/LeetCode/tree/master/0217-contains-duplicate) |
