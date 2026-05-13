@@ -34,6 +34,7 @@
 | [0136-single-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tripti-singh-cs/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tripti-singh-cs/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
@@ -199,6 +200,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/tripti-singh-cs/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
