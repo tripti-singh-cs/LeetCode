@@ -21,6 +21,7 @@
 | [0048-rotate-image](https://github.com/tripti-singh-cs/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tripti-singh-cs/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tripti-singh-cs/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/tripti-singh-cs/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tripti-singh-cs/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tripti-singh-cs/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tripti-singh-cs/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/tripti-singh-cs/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/tripti-singh-cs/LeetCode/tree/master/0118-pascals-triangle) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tripti-singh-cs/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/tripti-singh-cs/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Queue
 |  |
