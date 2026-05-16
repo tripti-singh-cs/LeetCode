@@ -119,6 +119,7 @@
 | [0189-rotate-array](https://github.com/tripti-singh-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tripti-singh-cs/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0344-reverse-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tripti-singh-cs/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tripti-singh-cs/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -247,6 +249,7 @@
 | [0260-single-number-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tripti-singh-cs/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tripti-singh-cs/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/tripti-singh-cs/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
