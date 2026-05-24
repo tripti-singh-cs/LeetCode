@@ -186,6 +186,7 @@
 | [0415-add-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/tripti-singh-cs/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/tripti-singh-cs/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1763-longest-nice-substring](https://github.com/tripti-singh-cs/LeetCode/tree/master/1763-longest-nice-substring) |
