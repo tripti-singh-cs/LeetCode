@@ -125,6 +125,7 @@
 | [0227-basic-calculator-ii](https://github.com/tripti-singh-cs/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/tripti-singh-cs/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tripti-singh-cs/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/tripti-singh-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0415-add-strings) |
 ## Matrix
 |  |
@@ -183,6 +184,7 @@
 | [0389-find-the-difference](https://github.com/tripti-singh-cs/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tripti-singh-cs/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/tripti-singh-cs/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/tripti-singh-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/tripti-singh-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tripti-singh-cs/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -300,6 +302,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tripti-singh-cs/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/tripti-singh-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tripti-singh-cs/LeetCode/tree/master/0415-add-strings) |
 ## Memoization
 |  |
