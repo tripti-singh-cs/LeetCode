@@ -1,0 +1,40 @@
+class Solution:
+    def isNumber(self, s: str) -> bool:
+
+        seen_digit = False
+        seen_dot = False
+        seen_exponent = False
+
+        for i in range(len(s)):
+
+            ch = s[i]
+
+            if ch.isdigit():
+
+                seen_digit = True
+
+            elif ch == '+' or ch == '-':
+
+                if i > 0 and s[i - 1] not in ['e', 'E']:
+                    return False
+
+            elif ch == '.':
+
+                if seen_dot or seen_exponent:
+                    return False
+
+                seen_dot = True
+
+       
+            elif ch == 'e' or ch == 'E':
+
+                if seen_exponent or not seen_digit:
+                    return False
+
+                seen_exponent = True
+
+                seen_digit = False
+            else:
+                return False
+
+        return seen_digit
